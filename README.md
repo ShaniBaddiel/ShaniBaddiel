@@ -35,8 +35,8 @@ An aspiring applications/web developer with a passion for coding!
   - Udacity
   - Coursera
   
-  :globe_with_meridians: Websites built (Not published live yet)
-
+ :globe_with_meridians: **Websites built (Not published live yet)**
+ 
   - Flower store
   - car showhouse
   - Towel shop
@@ -45,7 +45,8 @@ An aspiring applications/web developer with a passion for coding!
   - Personality questionnaire
   - Tribute page
 
-:bulb: Some Apps Built (Not published live yet)
+:bulb: **Some Apps Built (Not published live yet)**
+
   - a music tracks 'storage' page (applying the principles of local/session storage and JSON)
   - a calculator app (applying mathematical operations logic)
   - a 'tips' calculator (to calculate the tip, based on service and quality etc.)
