@@ -1,9 +1,10 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**ShaniBaddiel/ShaniBaddiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring applications/web developer with a passion for coding!
 
-Here are some ideas to get you started:
+Languages
+
+:computer: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
