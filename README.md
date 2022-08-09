@@ -1,15 +1,17 @@
 Hi there 👋
 
-I'm an aspiring applications/web developer with a passion for coding!
+Markup: ##I'm Shani Baddiel##
+An aspiring applications/web developer with a passion for coding!
 
-Languages
+:computer:  Programming Languages
 
-:computer: 
+HTML
+CSS
+JavaScript
+Python
+Some React and Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
