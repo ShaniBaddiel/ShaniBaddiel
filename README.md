@@ -4,6 +4,7 @@ Hi
 
 An aspiring applications/web developer with a passion for coding!
 
+
 :computer:  Programming Languages
 
 -HTML
@@ -26,13 +27,13 @@ An aspiring applications/web developer with a passion for coding!
 - L3 Cert in Interactive Media
 - BTECH in Digital Technologies
 - Self-taught courses via online learning platforms including:
-  -Codecademy
-  -Udacity
-  -EdX
-  -Udemy
-  -SoloLearn
-  -Udacity
-  -Coursera
+  - Codecademy
+  - Udacity
+  - EdX
+  - Udemy
+  - SoloLearn
+  - Udacity
+  - Coursera
   
   :globe_with_meridians: Websites built (Not published live yet)
 
