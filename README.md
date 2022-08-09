@@ -1,6 +1,6 @@
 Hi there 👋
 
-Markup : ##I'm Shani Baddiel##
+##I'm Shani Baddiel##
 
 An aspiring applications/web developer with a passion for coding!
 
