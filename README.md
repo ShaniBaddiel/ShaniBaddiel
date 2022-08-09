@@ -1,10 +1,10 @@
-Hi there 👋
+Hi there :wave:
 
-##**I'm Shani Baddiel**
+**I'm Shani Baddiel**
 
 An aspiring applications/web developer with a passion for coding!
 
-:computer:  Programming Languages
+:computer:  -Programming Languages-
 
 -HTML
 -CSS
@@ -15,6 +15,5 @@ An aspiring applications/web developer with a passion for coding!
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
