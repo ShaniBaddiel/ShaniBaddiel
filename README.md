@@ -36,20 +36,18 @@ An aspiring applications/web developer with a passion for coding!
   
 :globe_with_meridians: Websites built (Not published live yet)
 
--Flower store
--car showhouse
--Towel shop
--African chalets website
--Ice cream shop
--Personality questionnaire
--Tribute page
+- Flower store
+- car showhouse
+- Towel shop
+- African chalets website
+- Ice cream shop
+- Personality questionnaire
+- Tribute page
 
 :bulb: Some Apps Built (Not published live yet)
--a music tracks 'storage' page (applying the principles of local/session storage 
-and JSON)
--a calculator app (applying mathematical operations logic)
--a 'tips' calculator (to calculate the tip, based on service and quality etc.),
--an automatic bill calculator for a cafe (based on options chosen and on tip 
-specified),
--a basic currency converter
+- a music tracks 'storage' page (applying the principles of local/session storage and JSON)
+- a calculator app (applying mathematical operations logic)
+- a 'tips' calculator (to calculate the tip, based on service and quality etc.)
+- an automatic bill calculator for a cafe (based on options chosen and on tip specified)
+- a basic currency converter
 
