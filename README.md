@@ -7,18 +7,18 @@ An aspiring applications/web developer with a passion for coding!
 
 :computer:  Programming Languages
 
--HTML
--CSS
--JavaScript
--Python
--Some React and Bootstrap
+- HTML
+- CSS
+- JavaScript
+- Python
+- Some React and Bootstrap
 
 #Skills
--  • Problem solving and critical analysis
--  • Public speaking
--  • Team Leader
--  • Creative writing
--  • Fluent in touch typing
+-   Problem solving and critical analysis
+-   Public speaking
+-   Team Leader
+-   Creative writing
+-   Fluent in touch typing
 
 :books: Educational Background
 
